@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Satanas Search Engine",
+    "image": "https://satanas1275.github.io/hwb-app/sse/icon.png",
+    "url": "https://satanas1275.github.io/hwb-app/sse/"
+  },
+  {
+    "name": "DuckDuckGo",
+    "image": "https://satanas1275.github.io/hw-browser/assets/ddg.png",
+    "url": "https://duckduckgo.com"
+  },
+  {
+    "name": "MinosEscape",
+    "image": "https://satanas1275.github.io/hw-browser/assets/minos.png",
+    "url": "https://minos.rocknite.fr"
+  }
+]
